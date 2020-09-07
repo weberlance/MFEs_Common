@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/weberlance/MFEs_Common/issues"
   },
-  "homepage": "https://github.com/weberlance/MFEs_Common#readme"
+  "homepage": "https://github.com/weberlance/MFEs_Common#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
